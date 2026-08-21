@@ -85,9 +85,9 @@ This app combines the world's largest open model (2.8T), 300-agent parallel swar
 
 ## Repository
 
-- **Source:** https://github.com/Kimi-K3/kimi-k3
-- **Releases:** https://github.com/Kimi-K3/kimi-k3/releases
-- **Issues:** https://github.com/Kimi-K3/kimi-k3/issues
+- **Source:** https://github.com/kimik3-app/kimi-k3
+- **Releases:** https://github.com/kimik3-app/kimi-k3/releases
+- **Issues:** https://github.com/kimik3-app/kimi-k3/issues
 - **License:** MIT
 
 ## Common Questions
